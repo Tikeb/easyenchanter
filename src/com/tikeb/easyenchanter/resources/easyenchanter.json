@@ -1,0 +1,68 @@
+{
+	"EMERALD": {
+		"DIAMOND": {
+			"1": 800
+		},
+		"Standard": false
+	},
+	"WOOD": {
+		"CHARCOAL": {
+			"1": 100
+		},
+		"Standard": false
+	},
+	"IRON": {
+		"GOLD": {
+			"1": 800
+		},
+		"Standard": false
+	},
+	"APPLE": {
+		"GOLDENAPPLE": {
+			"1": 1800
+		},
+		"Standard": false
+	},
+	"CARROT": {
+		"GOLDENCARROT": {
+			"1": 2500
+		},
+		"Standard": false
+	},
+	"PICKAXE": {
+		"UNBREAKING": {
+			"1": 500,
+			"2": 700
+		},
+		"EFFICIENCY": {
+			"1": 400,
+			"2": 550,
+			"3": 620,
+			"4": 800
+		}
+	},
+	"AXE": {
+		"UNBREAKING": {
+			"1": 500,
+			"2": 700
+		},
+		"EFFICIENCY": {
+			"1": 400,
+			"2": 550,
+			"3": 620,
+			"4": 800
+		}
+	},
+	"SHOVEL": {
+		"UNBREAKING": {
+			"1": 500,
+			"2": 700
+		},
+		"EFFICIENCY": {
+			"1": 400,
+			"2": 550,
+			"3": 620,
+			"4": 800
+		}
+	}
+}

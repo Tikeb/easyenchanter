@@ -1,0 +1,7 @@
+name: EasyEnchanter
+main: com.tikeb.easyenchanter.EasyEnchanter
+version: 0.2
+commands:
+  ee:
+    description: Enchants item in main hand if possible
+    usage: /ee 
